@@ -1,7 +1,7 @@
 ## Welcome to my profile!
 
 ### About me
--I'm a Software Engineer from Brazil 
+-I'm a Software Engineer from Brazil\
 -1.5yrs of experience with full-stack web development
 
 
