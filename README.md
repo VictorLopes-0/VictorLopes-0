@@ -2,8 +2,8 @@
 
 ### About me
 -I'm a Software Engineer from Brazil\
--1.5yrs of experience with full-stack web development
-
+-1.5yrs of experience with full-stack web development\
+-Volunteer mentor at DiversificaDev
 
 <!--
 **VictorLopes-0/VictorLopes-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
